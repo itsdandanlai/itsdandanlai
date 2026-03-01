@@ -2,7 +2,7 @@
 
 Build when I'm not working or studying. Melbourne based. 
 
-### WWorking on
+### Working on
 
 - **[agint](https://github.com/YOUR_USERNAME/agint)** - lint your AI agent instruction files for conflicts, staleness, and drift
 - **[Oatpad](https://github.com/YOUR_USERNAME/oatpad)** - *(add a one-liner here)*
