@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hello
 
-<!--
-**itsdandanlai/itsdandanlai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Build when I'm not working or studying. Melbourne based. 
 
-Here are some ideas to get you started:
+### WWorking on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[agint](https://github.com/YOUR_USERNAME/agint)** - lint your AI agent instruction files for conflicts, staleness, and drift
+- **[Oatpad](https://github.com/YOUR_USERNAME/oatpad)** - *(add a one-liner here)*
+
+### About
+
+Just tryna have fun with this. Try to build anything that makes me think "surely this already exists". 
+
+- Dan
