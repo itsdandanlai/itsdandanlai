@@ -9,6 +9,6 @@ Build when I'm not working or studying. Melbourne based.
 
 ### About
 
-Just tryna have fun with this. Try to build anything that makes me think "surely this already exists". 
+Just tryna have fun with this.
 
 Cheers, Dan
