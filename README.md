@@ -2,10 +2,10 @@
 
 Build when I'm not working or studying. Melbourne based. 
 
-### Working on
+### Projects
 
-- **[agint](https://github.com/YOUR_USERNAME/agint)**: Lint your AI agent instruction files for conflicts, staleness, and drift
-- **[Oatpad](https://github.com/YOUR_USERNAME/oatpad)**: Lightweight Mac notes app - local-first, noise-free Notion/Apple Notes alternative
+- Shipped 16 Feb 2026: **[Oatpad](https://oatpad.app)**: Lightweight Mac notes app - local-first, noise-free Notion/Apple Notes alternative
+- Shipped 1 Mar 2026: **[agint](https://github.com/YOUR_USERNAME/agint)**: Lint your AI agent instruction files for conflicts, staleness, and drift
 
 ### About
 
